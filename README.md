@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ming! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/ming-liu-26778b352/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCV9-GV04zT0D1Taz-otoBFA">YouTuber</a></h1>
+<h1>Hi, I'm Ming! <br/><a href="https://github.com/mingodando">Programmer</a>, <a href="https://www.linkedin.com/in/ming-liu-26778b352/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCV9-GV04zT0D1Taz-otoBFA">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
